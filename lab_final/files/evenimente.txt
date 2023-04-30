@@ -1,0 +1,6 @@
+1 10 100 bal
+2 20 200 petrecere
+3 30 150 majorat
+4 14 200 alb
+5 15 250 decor
+6 16 300 craciun
